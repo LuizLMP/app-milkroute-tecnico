@@ -1,0 +1,2 @@
+C:/workspace/prjts_flutter/milkroute_tecnico/android/app/.cxx/Debug/5b682o6a/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/workspace/prjts_flutter/milkroute_tecnico/android/app/.cxx/Debug/5b682o6a/armeabi-v7a/CMakeFiles/rebuild_cache.dir

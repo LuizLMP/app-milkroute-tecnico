@@ -1,0 +1,2 @@
+C:/workspace/prjts_flutter/milkroute_tecnico/android/app/.cxx/RelWithDebInfo/2s4t425g/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/workspace/prjts_flutter/milkroute_tecnico/android/app/.cxx/RelWithDebInfo/2s4t425g/armeabi-v7a/CMakeFiles/rebuild_cache.dir
