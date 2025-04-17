@@ -6,5 +6,5 @@ Este app acabou se tornando um projeto legado após a atualização do flutter p
 Com isso precisei fazer a migração deste projeto para a nova versão, assim sendo necessário reconstruir o projeto e corrigir erros de null safety.
 
 Finalizei a migração recentemente, por esse motivo acabo de subir no repositório.
-
 Este é um projeto interno, e estou adicionando-o aqui como primeiro projeto em flutter e exemplo de trabalho, pois meus projetos são todos no repositório interno!
+
